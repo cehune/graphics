@@ -1,0 +1,7 @@
+x64
+.vs
+learn_opengl.vcxproj.user
+learn_opengl.vcxproj.filters
+learn_opengl.vcxproj
+learn_opengl.sln
+Source.cpp
